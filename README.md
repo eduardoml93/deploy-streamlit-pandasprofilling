@@ -1,1 +1,4 @@
-App in Streamlit using Pandas Profiling: https://emlpandasprof.streamlit.app/ 
+Available in web: emlpandasprof.streamlit.app 🌎👨‍💻
+
+Automatic EDA using Pandas Profiling for CSV files
+
