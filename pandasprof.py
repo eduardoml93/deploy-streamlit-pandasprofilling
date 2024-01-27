@@ -9,6 +9,7 @@ import os
 
 def app(title=None):
     st.set_page_config(layout="wide")
+    st.title(title)
 
     # Add a file uploader for CSV files
     uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
