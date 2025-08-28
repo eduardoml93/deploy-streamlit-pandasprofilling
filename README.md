@@ -3,7 +3,7 @@
 
 Este projeto é um aplicativo interativo desenvolvido com **Streamlit** que permite carregar dados em formato **CSV** (via **upload de arquivo** ou **link da web**) e gerar automaticamente relatórios exploratórios detalhados usando a biblioteca **ydata-profiling** (antigo Pandas Profiling).
 
-Available in web: emlpandasprof.streamlit.app 🌎👨‍💻
+Disponível na web: emlpandasprof.streamlit.app 🌎👨‍💻
 
 ## 🚀 Funcionalidades
 
